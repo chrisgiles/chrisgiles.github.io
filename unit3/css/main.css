@@ -1,0 +1,23 @@
+h1 {
+	font-family: Museo100, Helvetica, sans-serif;
+	font-weight: 100;
+}
+p {
+	font-style: italic;
+	font-family: Interstate, Helvetica, sans-serif;
+}
+
+ul {
+	font-family: Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+#slogan {
+	font-weight: 900;
+	font-style: normal;
+}
+
+#contact {
+	font-family: Helvetica, sans-serif;
+	font-weight: 700
+}
