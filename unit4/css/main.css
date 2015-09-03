@@ -1,0 +1,53 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:400,100,300,700,900);
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700,700italic,400italic);
+
+
+body {
+	background-image: url("images/99.jpg");
+}
+
+h1 {
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
+	text-align: center;
+	font-size: 48px;
+	margin-top: 1em;
+}
+
+h3 {
+	font-family: "Lato", sans-serif;
+	font-weight: 700;
+	font-size: 24px;
+}
+#subheading {
+	text-align: center;
+	margin: 3em;
+}
+hr {
+	width: 700px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+p {
+	font-family: 'Lora', Georgia, serif;
+	font-size: 16px;
+	line-height: 1.6em;
+	margin-left: 30em;
+	margin-right: 30em;
+	text-align: center;
+}
+
+.skills {
+	font-weight: bold;
+}
+#contactheading {
+	text-align: center;
+	margin-top: 3em;
+}
+.contactinfo {
+	line-height: 1em;
+	font-family: "Lato", sans-serif;
+	font-weight: 700;
+	font-size: 16px;
+}
