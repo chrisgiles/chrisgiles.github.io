@@ -11,7 +11,12 @@ h1 {
 	font-weight: 300;
 	text-align: center;
 	font-size: 48px;
-	margin-top: 1em;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #000;
+    margin-right: 12em;
+    margin-left: 12em;
+    padding: .25em;
 }
 
 h3 {
@@ -19,6 +24,32 @@ h3 {
 	font-weight: 700;
 	font-size: 24px;
 }
+	div {
+	width: 150px;
+	height: 150px;
+	border: 2px solid black;
+	display: inline-block;
+	margin: 20px;
+
+}
+
+div {
+	text-align: center;
+}
+
+#photo {
+	background: black;
+}
+
+#video {
+	background-image: url("cbadsharrowcrop.jpg");
+	background-size: cover;
+
+}	
+#motion {
+	background: rgba(20,200,70,.5);
+}
+
 #subheading {
 	text-align: center;
 	margin: 3em;
